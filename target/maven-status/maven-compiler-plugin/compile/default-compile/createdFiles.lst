@@ -18,6 +18,7 @@ com\mycompany\inheritancemulti.class
 com\mycompany\practice\polymorphism$Student.class
 practice$Main.class
 com\mycompany\practice\highestmarks.class
+zigzagconvert.class
 ooppractice$Animal.class
 com\mycompany\person.class
 trainmanagement.class
@@ -45,6 +46,7 @@ Practice_1.class
 sterictask.class
 com\company\Finance.class
 com\mycompany\hierarchial$Dog.class
+reverseinteger.class
 com\mycompany\practice\highestmarks$Student.class
 com\mycompany\inheritancemulti$Dog.class
 com\mycompany\practice\polymorphism.class
@@ -52,6 +54,7 @@ com\mycompany\practice\superpractic$Vehicle.class
 com\mycompany\inheritancemulti$Puppy.class
 jcshow_password.class
 com\mycompany\practice\inheritancetypes.class
+string2int.class
 com\mycompany\practice\superfunction$Dog.class
 encapsulation.class
 ooppractice.class
