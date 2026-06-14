@@ -26,6 +26,7 @@ ooppractice$Animal.class
 com\mycompany\person.class
 trainmanagement.class
 privatevoid.class
+lettercomibination.class
 com\mycompany\practice\superpractic.class
 practicee.class
 ooppractice$Dog.class
@@ -51,6 +52,7 @@ Practice_1.class
 sterictask.class
 com\company\Finance.class
 com\mycompany\hierarchial$Dog.class
+foursum.class
 reverseinteger.class
 com\mycompany\practice\highestmarks$Student.class
 com\mycompany\inheritancemulti$Dog.class
