@@ -33,6 +33,7 @@ ooppractice$Dog.class
 CEO.class
 com\company\Student.class
 com\mycompany\practice\superfunction.class
+removenthnode$ListNode.class
 com\company\schoolmanagement.class
 com\mycompany\inheritancemulti$Animal.class
 DB.class
@@ -53,6 +54,7 @@ sterictask.class
 com\company\Finance.class
 com\mycompany\hierarchial$Dog.class
 foursum.class
+removenthnode.class
 reverseinteger.class
 com\mycompany\practice\highestmarks$Student.class
 com\mycompany\inheritancemulti$Dog.class
