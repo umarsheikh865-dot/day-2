@@ -1,0 +1,27 @@
+public class task1{
+    static class Student {
+    String name;
+    int marks;
+
+    void displayGrade() {
+        if (marks >= 80)
+            System.out.println("Grade A");
+        else if (marks >= 60)
+            System.out.println("Grade B");
+        else if (marks >= 40)
+            System.out.println("Grade C");
+        else
+            System.out.println("Grade F");
+    }
+}
+
+
+    public static void main(String[] args) {
+
+        Student s1 = new Student(); 
+        s1.name = "Ali";
+        s1.marks = 75;
+
+        s1.displayGrade();
+    }
+}
